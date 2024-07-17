@@ -1,4 +1,4 @@
-![Mean Reversion Strategy](Mean%20Reversion/MR.png)
+![Mean Reversion Strategy](Mean%20Reversion%20Strategy/MR.png)
 
 # Mean-Reversion - VIX Breakout Trading Strategy
 
